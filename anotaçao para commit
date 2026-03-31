@@ -1,0 +1,10 @@
+🚀 Fazer push para o main (origem = GitHub)
+
+No Visual Studio Code, segue essa sequência:
+
+✅ 1. Adicionar arquivos
+git add .
+✅ 2. Fazer commit
+git commit -m "sua mensagem aqui"
+✅ 3. Enviar para o GitHub (origin/main)
+git push origin main
